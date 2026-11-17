@@ -2,10 +2,11 @@
 
 *Příprava na jednotnou přijímací zkoušku · 7. třída (šestiletá gymnázia)*
 
-Stejně připravené materiály pro další přijímačky jsou v samostatných repech:
+Stejně připravené materiály k dalším zkouškám CERMAT jsou v samostatných repech:
 
 - přijímačky po 9. třídě (čtyřleté obory): [prijimacky-cermat](https://github.com/zdenekmach/prijimacky-cermat)
 - přijímačky po 5. třídě (osmiletá gymnázia): [prijimacky-cermat-5-trida](https://github.com/zdenekmach/prijimacky-cermat-5-trida)
+- maturita, didaktické testy z češtiny a matematiky: [maturita-cermat](https://github.com/zdenekmach/maturita-cermat)
 
 ## Ke stažení
 
